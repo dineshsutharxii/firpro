@@ -12,7 +12,6 @@ This project automates browser actions using Selenium with Python. The tests are
 - [Folder Structure](#folder-structure)
 - [Writing Tests](#writing-tests)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Setup
 
