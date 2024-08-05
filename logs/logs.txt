@@ -1,0 +1,28 @@
+BasePage.py - 05-08-2024 18:06:51 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 18:06:51 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:07:21 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:07:21 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:07:21 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:07:21 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:07:21 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:07:21 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:07:22 - INFO - CPT code : CPT-99474 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:07:22 - INFO - CPT code : CPT-99474 is clicked
+BasePage.py - 05-08-2024 18:07:22 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 18:07:22 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 18:07:40 - INFO - Page is scrolled to 500
+BasePage.py - 05-08-2024 18:07:40 - INFO - Page is scrolled to 500
+BasePage.py - 05-08-2024 18:14:56 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 18:14:56 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:15:25 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:15:25 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:15:25 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:15:25 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:15:25 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:15:25 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:15:25 - INFO - CPT code : CPT-99474 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 18:15:25 - INFO - CPT code : CPT-99474 is clicked
+BasePage.py - 05-08-2024 18:15:26 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 18:15:26 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 18:15:44 - INFO - Page is scrolled to 500
+BasePage.py - 05-08-2024 18:15:44 - INFO - Page is scrolled to 500

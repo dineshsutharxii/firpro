@@ -2,7 +2,7 @@ import selenium
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from BasePage.BasePage import BasePage
-
+from utility.utility import Utility
 
 class RevenueCalculatorpage(BasePage):
     def __init__(self, driver, wait):
@@ -10,6 +10,9 @@ class RevenueCalculatorpage(BasePage):
         self.rev_cal_ele = None
         self.driver = driver
         self.wait = wait
+
+    log = Utility().custom_logger()
+
 
     # locators
     __rpm_and_ccm = (By.XPATH, "//*[normalize-space()='RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State']")
@@ -64,9 +67,9 @@ class RevenueCalculatorpage(BasePage):
             try:
                 input_box = self.driver.find_element(By.XPATH, "//p[contains(@class,'MuiTypography-root MuiTypography-body1 inter') and normalize-space()='"+code+"']//following-sibling::label/span[contains(@class,'MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label')]")
                 input_box.click()
-                print(f"CPT code : {code} is clicked")
+                self.log.info(f"CPT code : {code} is clicked")
             except Exception as e:
-                print(f"{e} Exception in select_based_on_cpt_codes for code : {code}")
+                self.log.info(f"{e} Exception in select_based_on_cpt_codes for code : {code}")
     def verify_selected_codes(self, cptcodes):
         all_selected_cpt_element = self.wait.until(EC.presence_of_all_elements_located(self.__selected_cpt_codes))
         all_codes = [(txt.text).lower() for txt in all_selected_cpt_element]
