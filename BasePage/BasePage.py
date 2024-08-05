@@ -49,14 +49,15 @@ class BasePage:
     def scroll_to_elememt(self, element):
         try:
             self.driver.execute_script("arguments[0].scrollIntoView();", element)
-            print(f"Page is scrolled to {element}")
+            # self.driver.execute_script("arguments[0].scrollIntoView({ behavior: 'smooth', block: 'center' });", element)
+            print(f"Page is scrolled to {element.text}")
         except Exception as e:
-            print(f"Exception during page scrolling to {element} because of exception : {str(e)}")
+            print(f"Exception during page scrolling to {element.text} because of exception : {str(e)}")
         self.wait.until(EC.visibility_of(element))
 
     def scroll_by_pixel(self, pixel = 10):
         try:
-            self.driver.execute_script("window.scrollBy(0," + str(pixel) + ")","")
+            self.driver.execute_script("window.scrollBy(0," + str(pixel) + ");")
             print(f"Page is scrolled to {pixel}")
         except Exception as e:
             print(f"Exception during page scrolling to {pixel} because of exception : {str(e)}")

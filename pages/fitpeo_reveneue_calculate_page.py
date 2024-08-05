@@ -16,7 +16,11 @@ class RevenueCalculatorpage(BasePage):
     __slider_circle = (By.XPATH, "//span[contains(@class, 'MuiSlider-thumb MuiSlider-thumbSizeMedium MuiSlider-thumbColorPrimary MuiSlider-thumb MuiSlider-thumbSizeMedium')]/input")
     __whole_slider = (By.XPATH, "//span[contains(@class, 'MuiSlider-root MuiSlider-colorPrimary MuiSlider-sizeMedium')]")
     __medicare_eligible_patients_textbox = (By.XPATH, "//input[contains(@class,'MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall')]")
-
+    # checkbox_with_cpt_code = lambda cpt_code: (By.XPATH, "//p[contains(@class,'MuiTypography-root MuiTypography-body1 inter') and normalize-space()='" + str(cpt_code) + "']//following-sibling::label/span[contains(@class,'MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label')]")
+    checkbox_with_cpt_code = (By.XPATH, "//p[contains(@class,'MuiTypography-root MuiTypography-body1 inter') and normalize-space()='CPT-99091']//following-sibling::label/span[contains(@class,'MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label')]")
+    __selected_cpt_codes = (By.XPATH, "//div[contains(@class,'MuiButtonBase-root MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorDefault MuiChip-deletable MuiChip-deletableColorDefault MuiChip-outlinedDefault')]//span[contains(@class,'MuiChip-label MuiChip-labelMedium')]")
+    __recurring_reimbursement_amount = (By.XPATH, "//p[contains(text(),'Total Recurring Reimbursement for all Patients Per Month:')]/p")
+    __cpt_section = (By.XPATH, "//div[contains(@xpath, '1') and contains(@class, 'MuiBox-root')]")
     # locator methods
     def get_rpm_and_ccm(self):
         rpm_and_ccm = self.wait.until(EC.presence_of_all_elements_located(self.__rpm_and_ccm))
@@ -55,5 +59,28 @@ class RevenueCalculatorpage(BasePage):
     def enter_text_in_slider_text(self, slider_value):
         self.enter_text(self.get_xpath_element(self.__medicare_eligible_patients_textbox), slider_value)
 
+    def select_based_on_cpt_codes(self, cptcodes):
+        for code in cptcodes:
+            try:
+                input_box = self.driver.find_element(By.XPATH, "//p[contains(@class,'MuiTypography-root MuiTypography-body1 inter') and normalize-space()='"+code+"']//following-sibling::label/span[contains(@class,'MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label')]")
+                input_box.click()
+                print(f"CPT code : {code} is clicked")
+            except Exception as e:
+                print(f"{e} Exception in select_based_on_cpt_codes for code : {code}")
+    def verify_selected_codes(self, cptcodes):
+        all_selected_cpt_element = self.wait.until(EC.presence_of_all_elements_located(self.__selected_cpt_codes))
+        all_codes = [(txt.text).lower() for txt in all_selected_cpt_element]
+        for cpt in cptcodes:
+            cpt = cpt.replace("-", "").lower()
+            if not cpt in all_codes:
+                return False
+        return True
+
+    def get_recurring_reimbursement_value(self):
+        rec_reimbursement_amt_element = self.get_xpath_element(self.__recurring_reimbursement_amount)
+        return rec_reimbursement_amt_element.text
+
+    def scroll_till_cpt_code_section(self):
+        self.scroll_by_pixel(500)
 
 

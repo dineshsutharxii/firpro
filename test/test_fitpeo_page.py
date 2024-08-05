@@ -35,4 +35,19 @@ class TestFitPeo:
         assert revenue_calculator.check_silder_value(slider_value)
 
     def test_select_cpt_codes(self):
-        pass
+        revenue_calculator = RevenueCalculatorpage(self.driver, self.wait)
+        revenue_calculator.select_based_on_cpt_codes(['CPT-99091', 'CPT-99453', 'CPT-99454', 'CPT-99474'])
+        check_tag = revenue_calculator.verify_selected_codes(['CPT-99091', 'CPT-99453', 'CPT-99454', 'CPT-99474'])
+        assert check_tag
+
+    def test_validate_recurring_reimbursement(self, value=820, rr_amount = '$110700'):
+        revenue_calculator = RevenueCalculatorpage(self.driver, self.wait)
+        revenue_calculator.scroll_till_slider_section()
+        revenue_calculator.slide_the_slider(value)
+        revenue_calculator.scroll_till_cpt_code_section()
+        rec_reimbursement_value = revenue_calculator.get_recurring_reimbursement_value()
+        assert rec_reimbursement_value == rr_amount
+
+
+
+
