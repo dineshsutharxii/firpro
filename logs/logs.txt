@@ -26,3 +26,353 @@ BasePage.py - 05-08-2024 18:15:26 - INFO - Page is scrolled to RPM and CCM Progr
 BasePage.py - 05-08-2024 18:15:26 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
 BasePage.py - 05-08-2024 18:15:44 - INFO - Page is scrolled to 500
 BasePage.py - 05-08-2024 18:15:44 - INFO - Page is scrolled to 500
+BasePage.py - 05-08-2024 19:04:45 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 19:04:45 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:05:17 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:05:17 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:05:17 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:05:17 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:05:17 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:05:17 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:05:17 - INFO - CPT code : CPT-99474 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:05:17 - INFO - CPT code : CPT-99474 is clicked
+BasePage.py - 05-08-2024 19:05:18 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 19:05:18 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 19:05:38 - INFO - Page is scrolled to 500
+BasePage.py - 05-08-2024 19:05:38 - INFO - Page is scrolled to 500
+BasePage.py - 05-08-2024 19:06:28 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 19:06:28 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:07:00 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:07:00 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:07:01 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:07:01 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:07:01 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:07:01 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:07:01 - INFO - CPT code : CPT-99474 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:07:01 - INFO - CPT code : CPT-99474 is clicked
+BasePage.py - 05-08-2024 19:07:01 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 19:07:01 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 19:07:21 - INFO - Page is scrolled to 500
+BasePage.py - 05-08-2024 19:07:21 - INFO - Page is scrolled to 500
+BasePage.py - 05-08-2024 19:39:48 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 19:39:48 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 19:39:49 - INFO - Exception while getting attribute value(aria-valuenow) of <selenium.webdriver.remote.webelement.WebElement (session="9e8892ef7c157a16f94bdeaa1bec45e1", element="f.97DC34A0E4295244A681EB934FE83CAA.d.BD880A1BE94E6EEBBA69B4714CF53027.e.29")> because of exception : Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00E98923+23283]
+	(No symbol) [0x00E5E934]
+	(No symbol) [0x00D90733]
+	(No symbol) [0x00D6D2E3]
+	(No symbol) [0x00DFA64F]
+	(No symbol) [0x00E0C686]
+	(No symbol) [0x00DF41B6]
+	(No symbol) [0x00DC8017]
+	(No symbol) [0x00DC890D]
+	GetHandleVerifier [0x00F8A5F3+1013699]
+	GetHandleVerifier [0x00F93E4C+1052700]
+	GetHandleVerifier [0x00F8D4B4+1025668]
+	GetHandleVerifier [0x00EBEA2B+179195]
+	(No symbol) [0x00E66833]
+	(No symbol) [0x00E63198]
+	(No symbol) [0x00E63337]
+	(No symbol) [0x00E5B4BE]
+	BaseThreadInitThunk [0x76477BA9+25]
+	RtlInitializeExceptionChain [0x76F5C10B+107]
+	RtlClearBits [0x76F5C08F+191]
+
+BasePage.py - 05-08-2024 19:39:49 - INFO - Exception while getting attribute value(aria-valuenow) of <selenium.webdriver.remote.webelement.WebElement (session="9e8892ef7c157a16f94bdeaa1bec45e1", element="f.97DC34A0E4295244A681EB934FE83CAA.d.BD880A1BE94E6EEBBA69B4714CF53027.e.29")> because of exception : Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00E98923+23283]
+	(No symbol) [0x00E5E934]
+	(No symbol) [0x00D90733]
+	(No symbol) [0x00D6D2E3]
+	(No symbol) [0x00DFA64F]
+	(No symbol) [0x00E0C686]
+	(No symbol) [0x00DF41B6]
+	(No symbol) [0x00DC8017]
+	(No symbol) [0x00DC890D]
+	GetHandleVerifier [0x00F8A5F3+1013699]
+	GetHandleVerifier [0x00F93E4C+1052700]
+	GetHandleVerifier [0x00F8D4B4+1025668]
+	GetHandleVerifier [0x00EBEA2B+179195]
+	(No symbol) [0x00E66833]
+	(No symbol) [0x00E63198]
+	(No symbol) [0x00E63337]
+	(No symbol) [0x00E5B4BE]
+	BaseThreadInitThunk [0x76477BA9+25]
+	RtlInitializeExceptionChain [0x76F5C10B+107]
+	RtlClearBits [0x76F5C08F+191]
+
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:39:50 - INFO - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00E98923+23283]
+	(No symbol) [0x00E5E934]
+	(No symbol) [0x00D90733]
+	(No symbol) [0x00D6D2E3]
+	(No symbol) [0x00DFA64F]
+	(No symbol) [0x00E0C686]
+	(No symbol) [0x00DF41B6]
+	(No symbol) [0x00DC8017]
+	(No symbol) [0x00DC890D]
+	GetHandleVerifier [0x00F8A5F3+1013699]
+	GetHandleVerifier [0x00F93E4C+1052700]
+	GetHandleVerifier [0x00F8D4B4+1025668]
+	GetHandleVerifier [0x00EBEA2B+179195]
+	(No symbol) [0x00E66833]
+	(No symbol) [0x00E63198]
+	(No symbol) [0x00E63337]
+	(No symbol) [0x00E5B4BE]
+	BaseThreadInitThunk [0x76477BA9+25]
+	RtlInitializeExceptionChain [0x76F5C10B+107]
+	RtlClearBits [0x76F5C08F+191]
+ Exception in select_based_on_cpt_codes for code : CPT-99091
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:39:50 - INFO - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00E98923+23283]
+	(No symbol) [0x00E5E934]
+	(No symbol) [0x00D90733]
+	(No symbol) [0x00D6D2E3]
+	(No symbol) [0x00DFA64F]
+	(No symbol) [0x00E0C686]
+	(No symbol) [0x00DF41B6]
+	(No symbol) [0x00DC8017]
+	(No symbol) [0x00DC890D]
+	GetHandleVerifier [0x00F8A5F3+1013699]
+	GetHandleVerifier [0x00F93E4C+1052700]
+	GetHandleVerifier [0x00F8D4B4+1025668]
+	GetHandleVerifier [0x00EBEA2B+179195]
+	(No symbol) [0x00E66833]
+	(No symbol) [0x00E63198]
+	(No symbol) [0x00E63337]
+	(No symbol) [0x00E5B4BE]
+	BaseThreadInitThunk [0x76477BA9+25]
+	RtlInitializeExceptionChain [0x76F5C10B+107]
+	RtlClearBits [0x76F5C08F+191]
+ Exception in select_based_on_cpt_codes for code : CPT-99091
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:39:50 - INFO - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00E98923+23283]
+	(No symbol) [0x00E5E934]
+	(No symbol) [0x00D90733]
+	(No symbol) [0x00D6D2E3]
+	(No symbol) [0x00DFA64F]
+	(No symbol) [0x00E0C686]
+	(No symbol) [0x00DF41B6]
+	(No symbol) [0x00DC8017]
+	(No symbol) [0x00DC890D]
+	GetHandleVerifier [0x00F8A5F3+1013699]
+	GetHandleVerifier [0x00F93E4C+1052700]
+	GetHandleVerifier [0x00F8D4B4+1025668]
+	GetHandleVerifier [0x00EBEA2B+179195]
+	(No symbol) [0x00E66833]
+	(No symbol) [0x00E63198]
+	(No symbol) [0x00E63337]
+	(No symbol) [0x00E5B4BE]
+	BaseThreadInitThunk [0x76477BA9+25]
+	RtlInitializeExceptionChain [0x76F5C10B+107]
+	RtlClearBits [0x76F5C08F+191]
+ Exception in select_based_on_cpt_codes for code : CPT-99453
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:39:50 - INFO - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00E98923+23283]
+	(No symbol) [0x00E5E934]
+	(No symbol) [0x00D90733]
+	(No symbol) [0x00D6D2E3]
+	(No symbol) [0x00DFA64F]
+	(No symbol) [0x00E0C686]
+	(No symbol) [0x00DF41B6]
+	(No symbol) [0x00DC8017]
+	(No symbol) [0x00DC890D]
+	GetHandleVerifier [0x00F8A5F3+1013699]
+	GetHandleVerifier [0x00F93E4C+1052700]
+	GetHandleVerifier [0x00F8D4B4+1025668]
+	GetHandleVerifier [0x00EBEA2B+179195]
+	(No symbol) [0x00E66833]
+	(No symbol) [0x00E63198]
+	(No symbol) [0x00E63337]
+	(No symbol) [0x00E5B4BE]
+	BaseThreadInitThunk [0x76477BA9+25]
+	RtlInitializeExceptionChain [0x76F5C10B+107]
+	RtlClearBits [0x76F5C08F+191]
+ Exception in select_based_on_cpt_codes for code : CPT-99453
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:39:50 - INFO - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00E98923+23283]
+	(No symbol) [0x00E5E934]
+	(No symbol) [0x00D90733]
+	(No symbol) [0x00D6D2E3]
+	(No symbol) [0x00DFA64F]
+	(No symbol) [0x00E0C686]
+	(No symbol) [0x00DF41B6]
+	(No symbol) [0x00DC8017]
+	(No symbol) [0x00DC890D]
+	GetHandleVerifier [0x00F8A5F3+1013699]
+	GetHandleVerifier [0x00F93E4C+1052700]
+	GetHandleVerifier [0x00F8D4B4+1025668]
+	GetHandleVerifier [0x00EBEA2B+179195]
+	(No symbol) [0x00E66833]
+	(No symbol) [0x00E63198]
+	(No symbol) [0x00E63337]
+	(No symbol) [0x00E5B4BE]
+	BaseThreadInitThunk [0x76477BA9+25]
+	RtlInitializeExceptionChain [0x76F5C10B+107]
+	RtlClearBits [0x76F5C08F+191]
+ Exception in select_based_on_cpt_codes for code : CPT-99454
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:39:50 - INFO - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00E98923+23283]
+	(No symbol) [0x00E5E934]
+	(No symbol) [0x00D90733]
+	(No symbol) [0x00D6D2E3]
+	(No symbol) [0x00DFA64F]
+	(No symbol) [0x00E0C686]
+	(No symbol) [0x00DF41B6]
+	(No symbol) [0x00DC8017]
+	(No symbol) [0x00DC890D]
+	GetHandleVerifier [0x00F8A5F3+1013699]
+	GetHandleVerifier [0x00F93E4C+1052700]
+	GetHandleVerifier [0x00F8D4B4+1025668]
+	GetHandleVerifier [0x00EBEA2B+179195]
+	(No symbol) [0x00E66833]
+	(No symbol) [0x00E63198]
+	(No symbol) [0x00E63337]
+	(No symbol) [0x00E5B4BE]
+	BaseThreadInitThunk [0x76477BA9+25]
+	RtlInitializeExceptionChain [0x76F5C10B+107]
+	RtlClearBits [0x76F5C08F+191]
+ Exception in select_based_on_cpt_codes for code : CPT-99454
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:39:50 - INFO - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00E98923+23283]
+	(No symbol) [0x00E5E934]
+	(No symbol) [0x00D90733]
+	(No symbol) [0x00D6D2E3]
+	(No symbol) [0x00DFA64F]
+	(No symbol) [0x00E0C686]
+	(No symbol) [0x00DF41B6]
+	(No symbol) [0x00DC8017]
+	(No symbol) [0x00DC890D]
+	GetHandleVerifier [0x00F8A5F3+1013699]
+	GetHandleVerifier [0x00F93E4C+1052700]
+	GetHandleVerifier [0x00F8D4B4+1025668]
+	GetHandleVerifier [0x00EBEA2B+179195]
+	(No symbol) [0x00E66833]
+	(No symbol) [0x00E63198]
+	(No symbol) [0x00E63337]
+	(No symbol) [0x00E5B4BE]
+	BaseThreadInitThunk [0x76477BA9+25]
+	RtlInitializeExceptionChain [0x76F5C10B+107]
+	RtlClearBits [0x76F5C08F+191]
+ Exception in select_based_on_cpt_codes for code : CPT-99474
+fitpeo_reveneue_calculate_page.py - 05-08-2024 19:39:50 - INFO - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.89)
+Stacktrace:
+	GetHandleVerifier [0x00E98923+23283]
+	(No symbol) [0x00E5E934]
+	(No symbol) [0x00D90733]
+	(No symbol) [0x00D6D2E3]
+	(No symbol) [0x00DFA64F]
+	(No symbol) [0x00E0C686]
+	(No symbol) [0x00DF41B6]
+	(No symbol) [0x00DC8017]
+	(No symbol) [0x00DC890D]
+	GetHandleVerifier [0x00F8A5F3+1013699]
+	GetHandleVerifier [0x00F93E4C+1052700]
+	GetHandleVerifier [0x00F8D4B4+1025668]
+	GetHandleVerifier [0x00EBEA2B+179195]
+	(No symbol) [0x00E66833]
+	(No symbol) [0x00E63198]
+	(No symbol) [0x00E63337]
+	(No symbol) [0x00E5B4BE]
+	BaseThreadInitThunk [0x76477BA9+25]
+	RtlInitializeExceptionChain [0x76F5C10B+107]
+	RtlClearBits [0x76F5C08F+191]
+ Exception in select_based_on_cpt_codes for code : CPT-99474
+BasePage.py - 05-08-2024 20:13:58 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 20:13:58 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+fitpeo_reveneue_calculate_page.py - 05-08-2024 20:14:27 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 20:14:27 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 20:14:27 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 20:14:27 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 20:14:27 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 20:14:27 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 20:14:27 - INFO - CPT code : CPT-99474 is clicked
+fitpeo_reveneue_calculate_page.py - 05-08-2024 20:14:27 - INFO - CPT code : CPT-99474 is clicked
+BasePage.py - 05-08-2024 20:14:27 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 20:14:27 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 05-08-2024 20:14:45 - INFO - Page is scrolled to 500
+BasePage.py - 05-08-2024 20:14:45 - INFO - Page is scrolled to 500
+BasePage.py - 06-08-2024 10:40:14 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 06-08-2024 10:40:14 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:40:43 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:40:43 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:40:43 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:40:43 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:40:43 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:40:43 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:40:43 - INFO - CPT code : CPT-99474 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:40:43 - INFO - CPT code : CPT-99474 is clicked
+BasePage.py - 06-08-2024 10:40:43 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 06-08-2024 10:40:43 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 06-08-2024 10:41:02 - INFO - Page is scrolled to 500
+BasePage.py - 06-08-2024 10:41:02 - INFO - Page is scrolled to 500
+BasePage.py - 06-08-2024 10:50:07 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 06-08-2024 10:50:07 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:50:39 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:50:39 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:50:40 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:50:40 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:50:40 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:50:40 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:50:40 - INFO - CPT code : CPT-99474 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:50:40 - INFO - CPT code : CPT-99474 is clicked
+BasePage.py - 06-08-2024 10:50:40 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 06-08-2024 10:50:40 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 06-08-2024 10:51:01 - INFO - Page is scrolled to 500
+BasePage.py - 06-08-2024 10:51:01 - INFO - Page is scrolled to 500
+BasePage.py - 06-08-2024 10:51:51 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 06-08-2024 10:51:51 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:52:21 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:52:21 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:52:21 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:52:21 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:52:21 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:52:21 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:52:21 - INFO - CPT code : CPT-99474 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:52:21 - INFO - CPT code : CPT-99474 is clicked
+BasePage.py - 06-08-2024 10:52:21 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 06-08-2024 10:52:21 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 06-08-2024 10:52:40 - INFO - Page is scrolled to 500
+BasePage.py - 06-08-2024 10:52:40 - INFO - Page is scrolled to 500
+BasePage.py - 06-08-2024 10:54:07 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 06-08-2024 10:54:07 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:54:36 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:54:36 - INFO - CPT code : CPT-99091 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:54:36 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:54:36 - INFO - CPT code : CPT-99453 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:54:36 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:54:36 - INFO - CPT code : CPT-99454 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:54:36 - INFO - CPT code : CPT-99474 is clicked
+fitpeo_reveneue_calculate_page.py - 06-08-2024 10:54:36 - INFO - CPT code : CPT-99474 is clicked
+BasePage.py - 06-08-2024 10:54:36 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 06-08-2024 10:54:36 - INFO - Page is scrolled to RPM and CCM Programs - CPT code reimbursement (Non-Facility Rates) NOTE: These Numbers Vary State to State
+BasePage.py - 06-08-2024 10:54:55 - INFO - Page is scrolled to 500
+BasePage.py - 06-08-2024 10:54:55 - INFO - Page is scrolled to 500
