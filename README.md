@@ -40,8 +40,6 @@ Make sure you have the following installed on your system:
     pip install -r requirements.txt
     ```
 
-    > **Note:** Ensure the WebDriver is added to your system's PATH, or specify its location in your test setup.
-
 ## Running the Tests
 
 ### Using Pytest
