@@ -5,6 +5,7 @@ from pages.fitpeo_reveneue_calculate_page import RevenueCalculatorpage
 
 
 @pytest.mark.usefixtures('setup')
+@pytest.mark.parametrize
 class TestFitPeo:
     @pytest.mark.homepage
     @pytest.mark.regression
